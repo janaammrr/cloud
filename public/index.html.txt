@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Jana Cloud</title>
+  </head>
+  <body>
+    <h1>Hello from janaammrr/cloud!</h1>
+    <p>This is my first Firebase deployment.</p>
+  </body>
+</html>
